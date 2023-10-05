@@ -5,7 +5,8 @@
 *.tfstate
 *.tfstate.*
 
-Terraform/blogBot/modules/.env
+**/.env
+
 
 *.pem
 

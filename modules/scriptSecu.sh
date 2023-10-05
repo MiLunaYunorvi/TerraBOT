@@ -17,7 +17,7 @@ sudo npm ci   #Instalando librerias desde package-lock.json
 sudo npm install dotenv --save
 sudo cp /home/ubuntu/.env ./.env
 sudo cp framework.js node_modules/webex-node-bot-framework/lib/framework.js
-screen
 sudo npm run start:both
-exit 
-echo -e "TODO FUNCIONANDO"
+
+
+
